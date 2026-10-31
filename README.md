@@ -213,4 +213,3 @@ All code goes through a pull request approved by at least one other member.
 
 MIT
 # PharmaTrace
-# PharmaTrace
