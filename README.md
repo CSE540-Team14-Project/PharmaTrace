@@ -131,7 +131,7 @@ Every state change emits an event for auditing (`BatchRegistered`, `BatchShipped
 | Pinata account | for IPFS uploads (later) |
 
 ```bash
-git clone <this-repo-url>
+git clone https://github.com/CSE540-Team14-Project/PharmaTrace
 cd PharmaTrace
 npm install
 cp .env.example .env        # only needed for Amoy
